@@ -11,7 +11,7 @@ I started this project to get hands-on with problems I'd likely run into on the 
 - **networking/** — network diagnostics and packet analysis *(in progress)*
 - **web_security/** — basic web vulnerability demos and header checks *(in progress)*
 - **monitoring/** — log analysis and alerting *(in progress)*
-- **documentation/** — notes on architecture, security decisions, and incident response
+- **documentation/** — architecture notes, security reasoning behind each tool, and an incident response reference *(updated as more sections are added)*
 
 ## Tools so far
 
